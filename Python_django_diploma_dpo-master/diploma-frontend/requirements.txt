@@ -1,0 +1,10 @@
+asgiref==3.7.2
+diploma-frontend @ file:///home/tolik/diplom/Python_django_diploma_dpo/diploma-frontend/dist/diploma-frontend-0.6.tar.gz#sha256=09f18e5cf1d0446805a584f2a4910a3a96dadb4d65bddf787aaee6ddf2587153
+Django==4.2.1
+django-taggit==4.0.0
+djangorestframework==3.14.0
+packaging==23.1
+Pillow==9.5.0
+pytz==2023.3
+sqlparse==0.4.4
+typing_extensions==4.6.3

@@ -1,0 +1,17 @@
+{% extends 'shopapp/base.html' %}
+
+{% block title %}
+    Shop Index
+{% endblock %}
+
+{% block body %}
+    <h1>Hallo!</h1>
+
+    <div>
+        Run Timer : {{ time_running }}
+    </div>
+
+    <div>
+        {% lorem 3 p random %}
+    </div>
+{% endblock %}
